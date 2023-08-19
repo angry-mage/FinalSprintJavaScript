@@ -1,0 +1,84 @@
+[
+    {
+        "title": "Dark Souls: Remastered",
+        "released": "05/24/2018",
+        "developer": "FromSoftware",
+        "publisher": "Bandai Namco",
+        "genre": "Fantasy",
+        "rating": "8",
+        "number": 1
+    },
+    {
+        "title": "Doom II",
+        "released": "05/05/1994",
+        "developer": "Id Software",
+        "publisher": "Id Software",
+        "genre": "Action/Horror",
+        "rating": "10",
+        "number": 2
+    },{
+        "title": "Doom Eternal",
+        "released": "03/20/2020",
+        "developer": "Id Software",
+        "publisher": "Bethesda Softworks",
+        "genre": "Action/Horror",
+        "rating": "9",
+        "number": 3
+    },{
+        "title": "Bloodborne",
+        "released": "03/24/2015",
+        "developer": "FromSoftware",
+        "publisher": "Bandai Namco",
+        "genre": "Horror/Fantasy",
+        "rating": "10",
+        "number": 4
+    },{
+        "title": "Assassin's Creed: Brotherhood",
+        "released": "11/16/2010",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "genre": "Action",
+        "rating": "7",
+        "number": 5
+    },{
+        "title": "Lost In Vivo",
+        "released": "11/05/2018",
+        "developer": "KIRA",
+        "publisher": "KIRA",
+        "genre": "Psychological Horror",
+        "rating": "10",
+        "number": 6
+    },{
+        "title": "Resident Evil 2: Remake",
+        "released": "01/25/2019",
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd.",
+        "genre": "Survival Horror",
+        "rating": "9",
+        "number": 7
+    },{
+        "title": "Stardew Valley",
+        "released": "02/26/2016",
+        "developer": "ConcernedApe",
+        "publisher": "ConcernedApe",
+        "genre": "Life Sim/Farming Sim",
+        "rating": "8",
+        "number": 8
+    },{
+        "title": "Counter Strike: Global Offensive",
+        "released": "08/21/2012",
+        "developer": "Valve",
+        "publisher": "Valve Co.",
+        "genre": "Action/Multiplayer",
+        "rating": "7",
+        "number": 9
+    },{
+        "title": "Project Warlock",
+        "released": "12/06/2018",
+        "developer": "Retrovibe",
+        "publisher": "Retrovibe",
+        "genre": "Action/Horror",
+        "rating": "8",
+        "number": 10
+    }
+]
